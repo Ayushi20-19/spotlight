@@ -1,0 +1,26 @@
+.search-form {
+  display: flex;
+  align-items: baseline;
+  height: fit-content;
+}
+#search-input {
+  width: 12rem;
+  height: 2rem;
+  font-size: 2rem;
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+#search-input::placeholder {
+  font-size: 1.2rem;
+  color: rgb(233, 233, 233);
+}
+.search-icon {
+  color: white;
+  height: 100%;
+  align-self: center;
+  margin: 0 0.5rem;
+}
+.search-btn {
+  background-color: transparent;
+  border: 0;
+}
