@@ -1,0 +1,41 @@
+.landing-image {
+  height: 100vh;
+  background: url("https://source.unsplash.com/random/?nature/1360×780");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+.landing-box {
+  color: var(--wheat-color);
+  text-align: center;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  padding: 1rem;
+}
+.landing-heading h1 {
+  font-size: 4rem;
+  margin: 1rem 0 0 0;
+}
+
+.landing-input {
+  width: 30rem;
+  height: 3rem;
+  font-size: 2rem;
+}
+
+.landing-btn {
+  border: 0;
+  background-color: transparent;
+  font-size: 1.5rem;
+  margin: 1rem;
+  color: var(--white-color);
+  border-bottom: 1px solid var(--white-color);
+}
+.landing-btn:hover {
+  color: var(--white-color);
+  border-bottom: 1px solid var(--white-color);
+}

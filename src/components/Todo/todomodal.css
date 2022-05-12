@@ -1,0 +1,62 @@
+.todo-wrapper {
+  background-color: var(--bg-color);
+  max-height: 15rem;
+  overflow-y: auto;
+  color: var(--white-color);
+  padding: 1rem;
+  border-radius: 4%;
+}
+.todo-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100%;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.4rem;
+}
+.todo-input {
+  margin-bottom: 1rem;
+  background-color: transparent;
+  border: 0;
+  font-size: 0.9rem;
+  border-bottom: 2px solid var(--white-color);
+}
+.todo-input::placeholder {
+  text-align: start;
+}
+.todo-input:focus {
+  text-align: start;
+}
+.input-display-box {
+  display: flex;
+  justify-content: space-between;
+  width: 17rem;
+}
+
+.input-text-box {
+  width: 60%;
+  overflow-x: auto;
+}
+.todo-del-all-btn {
+  background-color: transparent;
+  border: 1px solid var(--light-gray);
+  border: 0;
+  color: var(--light-gray);
+  margin: 0.3rem;
+  cursor: pointer;
+}
+
+/* todo.js css */
+.bottom-right {
+  position: absolute;
+  bottom: 3%;
+  right: 3%;
+  font-size: 1.3rem;
+  color: var(--white-color);
+}
+
+.bottom-right-up {
+  position: absolute;
+  bottom: 9%;
+  right: 2%;
+}
