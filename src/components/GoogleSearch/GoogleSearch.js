@@ -10,8 +10,7 @@ const GoogleSearch = () => {
         method='get'
         className='search-form'>
         <input
-          className='landing-input '
-          id='search-input'
+          className='input search-input '
           name='search'
           placeholder='Google search'
           type='text'

@@ -17,10 +17,13 @@ const LandingPage = () => {
           </div>
           <div>
             <input
-              className='landing-input'
+              className='input landing-input'
               type='text'
               placeholder='Please enter your good name '
               onChange={(e) => setUserName(e.target.value)}
+              onKeyPress={(e) => {
+                e.key === "Enter" && submitHandler();
+              }}
             />
           </div>
           <button className='landing-btn' type='submit' onClick={submitHandler}>

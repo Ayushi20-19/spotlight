@@ -1,0 +1,24 @@
+:root {
+  --white-color: #fff;
+  --black-color: #000;
+  --dark-gray: #575757;
+  --light-gray: #acacac;
+  --wheat-color: #fdffdf;
+  --bg-color: rgba(22, 22, 22, 0.6);
+}
+
+.input {
+  background-color: transparent;
+  color: var(--white-color);
+  font-size: 1.2rem;
+  text-align: center;
+  border: 0;
+  border-bottom: 1px solid var(--white-color);
+}
+.input::placeholder {
+  color: var(--wheat-color);
+}
+.input:focus {
+  outline: none;
+  color: var(--wheat-color);
+}

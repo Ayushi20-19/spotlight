@@ -9,9 +9,7 @@
   justify-content: center;
 }
 .landing-box {
-  /* backdrop-filter: blur(15px);
-  background-color: rgb(88, 88, 88, 0.4); */
-  color: rgb(255, 255, 255);
+  color: var(--wheat-color);
   text-align: center;
   width: fit-content;
   height: fit-content;
@@ -24,30 +22,20 @@
 }
 
 .landing-input {
-  background-color: transparent;
-  border: 0;
-  text-align: center;
-  border-bottom: 1px solid white;
   width: 30rem;
   height: 3rem;
   font-size: 2rem;
 }
-.landing-input::placeholder {
-  color: rgb(179, 179, 179);
-}
-.landing-input:focus {
-  outline: none;
-  color: rgb(179, 179, 179);
-}
+
 .landing-btn {
   border: 0;
   background-color: transparent;
   font-size: 1.5rem;
   margin: 1rem;
-  color: white;
-  border-bottom: 1px solid white;
+  color: var(--white-color);
+  border-bottom: 1px solid var(--white-color);
 }
 .landing-btn:hover {
-  color: antiquewhite;
-  border-bottom: 1px solid antiquewhite;
+  color: var(--white-color);
+  border-bottom: 1px solid var(--white-color);
 }
