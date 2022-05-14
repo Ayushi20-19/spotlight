@@ -1,6 +1,7 @@
 import React from "react";
 import GoogleSearch from "../components/GoogleSearch/GoogleSearch";
 import Todo from "../components/Todo/Todo";
+import { Weather } from "../components/Weather/Weather";
 
 const HomePage = () => {
   return (
@@ -8,6 +9,7 @@ const HomePage = () => {
       <div className='wrapper landing-image'>
         <GoogleSearch />
         <Todo />
+        <Weather />
       </div>
     </div>
   );
