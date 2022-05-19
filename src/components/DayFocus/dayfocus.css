@@ -1,0 +1,51 @@
+.goal-input {
+  position: absollute;
+  bottom: 10%;
+}
+.main-goal-sec {
+  width: fit-content;
+  font-weight: 600;
+  position: absolute;
+  top: 55%;
+  font-size: 2rem;
+  color: var(--white-color);
+  padding: 1rem 2rem;
+  background-color: var(--bg-color);
+}
+.todo-sec {
+  font-weight: 600;
+  color: var(--white-color);
+  display: flex;
+  align-items: center;
+  width: 75%;
+  justify-content: center;
+  margin: auto;
+}
+.goal-input {
+  position: absolute;
+  bottom: 23%;
+}
+.userInput {
+  position: absolute;
+  top: 65%;
+}
+.completed {
+  text-decoration: line-through;
+}
+.mygoal {
+  width: 10rem;
+  margin-left: 2rem;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+}
+.goal-ques {
+  position: absolute;
+  top: 54%;
+  color: var(--white-color);
+  font-size: 2.5rem;
+}
+.btn-goal {
+  position: absollute;
+  bottom: 10%;
+}

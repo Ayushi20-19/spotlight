@@ -22,3 +22,17 @@
   outline: none;
   color: var(--wheat-color);
 }
+/* timedisplay css */
+
+.time-container {
+  color: var(--white-color);
+  position: absolute;
+  top: 15%;
+  font-size: 8.5rem;
+}
+.greet-user-container {
+  color: var(--white-color);
+  position: absolute;
+  top: 43%;
+  font-size: 2rem;
+}
