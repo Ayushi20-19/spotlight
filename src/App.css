@@ -36,3 +36,11 @@
   top: 43%;
   font-size: 2rem;
 }
+
+/* quotes css */
+.quotes-container {
+  position: absolute;
+  bottom: 7%;
+  font-size: 1.2rem;
+  color: var(--wheat-color);
+}

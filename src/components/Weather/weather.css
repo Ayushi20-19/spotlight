@@ -1,6 +1,7 @@
 .weather-box {
   position: absolute;
   right: 2%;
+  color: var(--white-color);
 }
 .data-display {
   display: flex;
