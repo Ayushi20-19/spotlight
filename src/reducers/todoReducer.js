@@ -16,7 +16,6 @@ const deleteTodoItem = (todoState, id) => {
 };
 
 const todoReducer = (todoState, { type, payload }) => {
-  console.log(todoState, type, payload);
   switch (type) {
     case "ADD_TO_TODO":
       return {

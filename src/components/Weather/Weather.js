@@ -61,7 +61,7 @@ const Weather = () => {
         setError("City not found");
       }
     })();
-  }, [lat, long, cityName]);
+  }, [lat, long, getApi, cityName]);
 
   return (
     <div className='weather-box'>

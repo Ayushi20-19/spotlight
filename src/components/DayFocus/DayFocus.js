@@ -1,4 +1,4 @@
-import { DeleteOutline, Edit } from "@mui/icons-material";
+import { Edit } from "@mui/icons-material";
 import { useEffect, useReducer } from "react";
 import { dayFocus } from "../../reducers/dayFocus";
 import CloseIcon from "@mui/icons-material/Close";

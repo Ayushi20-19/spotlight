@@ -2,12 +2,16 @@
   "manifest_version": 3,
   "name": "Spotlight",
   "version": "0.1.0",
-  "description": "Replace your boring new tab with something productive with cool background, time, google search, todo, short notepad, calander and random quotes.",
+  "description": "Replace your boring new tab with something productive with cool background, time, google search, todo,day focus, and random quotes.",
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
   "browser_action": {
-    "default_icon": "favicon.ico",
+    "default_icon": {
+      "16": "logo16.png",
+      "48": "logo48.png",
+      "144": "logo144.png"
+    },
     "default_title": "Spotlight"
   }
 }
