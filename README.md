@@ -8,12 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
-<!-- PROJECT SHIELDS -->
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ayushi20-19/)
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -60,13 +54,11 @@
 
 
 
-https://user-images.githubusercontent.com/50084909/167316327-57c434d2-d29a-46eb-9e1a-5edff7117464.mp4
-
 
 
 <br/>
-![image](https://user-images.githubusercontent.com/50084909/169477920-d7742f11-c28b-440e-90cd-ae7d99762d87.png)
 
+![image](https://user-images.githubusercontent.com/50084909/169477920-d7742f11-c28b-440e-90cd-ae7d99762d87.png)
 ![image](https://user-images.githubusercontent.com/50084909/169478034-c86fbea1-a34e-462f-b8f2-537a4321521b.png)
 ![image](https://user-images.githubusercontent.com/50084909/169478192-a92380df-aeec-48d1-99d3-968fb087118c.png)
 ![image](https://user-images.githubusercontent.com/50084909/169478272-24030985-d765-452d-81c2-4e22d0c68ab4.png)
