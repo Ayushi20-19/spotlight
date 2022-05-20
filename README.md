@@ -122,7 +122,7 @@ for now use below method to test.
 
 8- Vollaaaa, your extension is installed. feel free to give stars on our project 😂😂😂😂😂
 
-<h2>Soon will be avaibale on chrome web store</h2>
+note- <h2>Soon will be available on chrome web store (review in progress)</h2>
 
 <!-- CONTACT -->
 ## Contact
