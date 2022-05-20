@@ -10,7 +10,10 @@ const Todo = () => {
           <TodoModal setTodoModal={setTodoModal} />
         </div>
       ) : null}
-      <span className='bottom-right' onClick={() => setTodoModal(!isTodoModal)}>
+      <span
+        className='bottom-right'
+        onMouseEnter={() => setTodoModal(!isTodoModal)}
+        onClick={() => setTodoModal(!isTodoModal)}>
         Todo
       </span>
     </div>

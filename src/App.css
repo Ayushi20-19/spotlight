@@ -4,7 +4,7 @@
   --dark-gray: #575757;
   --light-gray: #acacac;
   --wheat-color: #fdffdf;
-  --bg-color: rgba(22, 22, 22, 0.6);
+  --bg-color: rgba(22, 22, 22, 0.7);
 }
 
 .input {
@@ -20,5 +20,27 @@
 }
 .input:focus {
   outline: none;
+  color: var(--wheat-color);
+}
+/* timedisplay css */
+
+.time-container {
+  color: var(--white-color);
+  position: absolute;
+  top: 15%;
+  font-size: 8.5rem;
+}
+.greet-user-container {
+  color: var(--white-color);
+  position: absolute;
+  top: 43%;
+  font-size: 2rem;
+}
+
+/* quotes css */
+.quotes-container {
+  position: absolute;
+  bottom: 7%;
+  font-size: 1.2rem;
   color: var(--wheat-color);
 }
