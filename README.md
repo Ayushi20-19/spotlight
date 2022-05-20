@@ -32,20 +32,21 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<ul>
   <summary>Table of Contents</summary>
   <ol>
     <li>Google Serach</li>
+    <li>Time Display</li>
     <li>Cool nature background</li>
     <li>Add Todo Feature </li>
     <li>Delete Todo</li>
-    <li>Detlete all todo if done for a dya</li>
+    <li>Delete all todo if done for a day</li>
     <li>Day Focus</li>
     <li>Weather Display of desired place</li>
     <li>Random Quotes</li>
     <li>Simple UI</li>
   </ol>
-</details>
+</ul>
 
 
 
